@@ -143,7 +143,7 @@ if &background == 'dark'
   " Built-in
   highlight ColorColumn         guifg=NONE    guibg=#303030 gui=NONE
   highlight Conceal             guifg=#585858 guibg=NONE    gui=NONE
-  highlight Cursor              guifg=#c6c6c6 guibg=NONE    gui=NONE
+  highlight Cursor              guifg=#d75f00 guibg=NONE    gui=NONE
   highlight CurSearch           guifg=#87d700 guibg=#005f00 gui=NONE
   highlight CursorColumn        guifg=NONE    guibg=#303030 gui=NONE
   highlight CursorLine          guifg=NONE    guibg=#303030 gui=NONE
@@ -260,7 +260,7 @@ else
   " Built-in
   highlight ColorColumn         guifg=NONE    guibg=#e4e4e4 gui=NONE
   highlight Conceal             guifg=#444444 guibg=NONE    gui=NONE
-  highlight Cursor              guifg=#c6c6c6 guibg=NONE    gui=NONE
+  highlight Cursor              guifg=#d75f00 guibg=NONE    gui=NONE
   highlight CurSearch           guifg=#008700 guibg=#afff87 gui=NONE
   highlight CursorColumn        guifg=NONE    guibg=#e4e4e4 gui=NONE
   highlight CursorLine          guifg=NONE    guibg=#e4e4e4 gui=NONE
